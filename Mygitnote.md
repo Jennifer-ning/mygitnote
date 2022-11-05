@@ -74,7 +74,6 @@ git pull —rebase: to cause a rebase to first rewind the local branch and make 
 
 
 touch file_name: add a new file.
-
 mate file_name.extension:  create a new mate file
 mate .gitignore: exclude file and folders not to track
 
